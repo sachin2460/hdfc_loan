@@ -19,3 +19,4 @@ public demo ()
 //Story 104
 AB-104()
 {}
+System.out.println("thank You");
