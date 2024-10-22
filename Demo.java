@@ -1,5 +1,6 @@
 
 
+
 class Demo
 {
 	System.out.println("How are you");
@@ -11,5 +12,11 @@ class Demo
 class Demo 
 {
   System.out.println("How are you");
+}
+
+
+class Demo
+{
+	System.out.println("Hello from working tree");
 }
 
